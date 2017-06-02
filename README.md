@@ -1,5 +1,9 @@
 #My Portfolio
 
-This is my portfolio which will guide you about the details you need to know about me such as my Projects, Resume, Contact details etc. https://bamakant.github.io/
+This  is a simple portfolio website designed for a professional who want to show his/her work.
+To get a demo of it just follow below steps.
+1. Download this project on your desktop.
+2  Extract it.
+3. Open the index.html fike using any browser you have.
 
-#Made with help of w3Layout
+
